@@ -11,13 +11,16 @@
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=flat-square&logo=reactivex&logoColor=white)<br/>
 ![HTML](https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&logoColor=ffffff&color=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=css3&logoColor=ffffff&color=1572B6)
-![SASS](https://img.shields.io/badge/SASS-informational?style=flat-square&logo=SASS&logoColor=ffffff&color=CC6699)<br/>
+![SASS](https://img.shields.io/badge/SASS-informational?style=flat-square&logo=SASS&logoColor=ffffff&color=CC6699)
+![Styled_Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)<br/>
+![Node_JS](https://img.shields.io/badge/Node-informational?style=flat-square&logo=node.js&logoColor=ffffff&color=339933)
 ![Webpack](https://img.shields.io/badge/Webpack-informational?style=flat-square&logo=webpack&logoColor=8DD6F9&color=2c3a41)
 ![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=flat-square&logo=json-web-tokens&logoColor=pink)
-![Node_JS](https://img.shields.io/badge/Node-informational?style=flat-square&logo=node.js&logoColor=ffffff&color=339933)
 ![PNPM](https://img.shields.io/badge/PNPM-informational?style=flat-square&logo=pnpm&logoColor=ffffff&color=F69220)<br/>
 ![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=ffffff&color=47A248)
-![Styled_Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
+
 
 
 🌱 I’m currently learning 
